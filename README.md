@@ -1,5 +1,10 @@
 # the-vaper
 
+### Node version
+16.16.0
+### npm version
+8.11.0
+
 ## Build Setup
 
 ```bash
